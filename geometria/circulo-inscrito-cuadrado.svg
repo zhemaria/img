@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 275" width="280" height="275" role="img" aria-labelledby="t-circulo-inscrito-cuadrado d-circulo-inscrito-cuadrado">
+<title id="t-circulo-inscrito-cuadrado">Circulo inscrito en un cuadrado</title>
+<desc id="d-circulo-inscrito-cuadrado">Cuadrado con un circulo dibujado dentro que toca los cuatro lados en un punto cada uno, marcados con puntos. El diametro del circulo es igual al lado del cuadrado, por lo que el radio mide la mitad del lado.</desc>
+<rect x="0" y="0" width="280" height="275" fill="#ffffff"/>
+<path d="M40,35 H240 V235 H40 Z" fill="#dbe9f7" stroke="#14395e" stroke-width="3" stroke-linejoin="round"/><circle cx="140" cy="135" r="100" fill="#f6e0dc" stroke="#a02218" stroke-width="3"/><g fill="none" stroke="#14395e" stroke-width="3" stroke-linecap="round"><path d="M140,135 H240"/></g><circle cx="140" cy="135" r="5" fill="#14395e"/><g fill="#a02218"><circle cx="140" cy="35" r="4.5"/><circle cx="240" cy="135" r="4.5"/><circle cx="140" cy="235" r="4.5"/><circle cx="40" cy="135" r="4.5"/></g><text x="190" y="122" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="14" font-weight="600" fill="#14395e">r = lado ÷ 2</text>
+<text x="140" y="262" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="16" font-weight="600" fill="#14395e">Círculo inscrito en un cuadrado</text>
+</svg>

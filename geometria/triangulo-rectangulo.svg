@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 250" width="300" height="250" role="img" aria-labelledby="t-triangulo-rectangulo d-triangulo-rectangulo">
+<title id="t-triangulo-rectangulo">Triangulo rectangulo</title>
+<desc id="d-triangulo-rectangulo">Triangulo con un angulo recto de 90 grados, senalado con un cuadro. Los dos lados que forman el angulo recto son los catetos y el lado opuesto, el mas largo, es la hipotenusa.</desc>
+<rect x="0" y="0" width="300" height="250" fill="#ffffff"/>
+<path d="M60,185 H250 L60,60 Z" fill="#dbe9f7" stroke="#14395e" stroke-width="3" stroke-linejoin="round"/><g fill="none" stroke="#a02218" stroke-width="3" stroke-linecap="round"><path d="M60,167 H78 V185"/></g><text x="155" y="208" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="15" font-weight="600" fill="#14395e">cateto</text><text x="44" y="125" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="15" font-weight="600" fill="#14395e" transform="rotate(-90 44 125)">cateto</text><text x="168" y="108" text-anchor="start" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="15" font-weight="600" fill="#14395e">hipotenusa</text>
+<text x="150" y="236" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="16" font-weight="600" fill="#14395e">Rectángulo: un ángulo de 90°</text>
+</svg>

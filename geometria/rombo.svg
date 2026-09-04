@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 245" width="260" height="245" role="img" aria-labelledby="t-rombo d-rombo">
+<title id="t-rombo">Rombo</title>
+<desc id="d-rombo">Cuadrilatero con los cuatro lados de igual longitud, marcados con una raya. Sus dos diagonales, dibujadas con linea discontinua, se cortan en el centro formando angulos rectos.</desc>
+<rect x="0" y="0" width="260" height="245" fill="#ffffff"/>
+<path d="M130,35 L215,115 L130,195 L45,115 Z" fill="#dbe9f7" stroke="#14395e" stroke-width="3" stroke-linejoin="round"/><g fill="none" stroke="#14395e" stroke-width="2.5" stroke-dasharray="7 5"><path d="M130,35 V195"/><path d="M45,115 H215"/></g><g fill="none" stroke="#14395e" stroke-width="3" stroke-linecap="round"><path d="M130,101 H144 V115"/></g><g fill="none" stroke="#a02218" stroke-width="3" stroke-linecap="round"><path d="M167.7,69.9 L177.3,80.1"/><path d="M167.7,149.9 L177.3,160.1"/><path d="M82.7,149.9 L92.3,160.1"/><path d="M82.7,69.9 L92.3,80.1"/></g>
+<text x="130" y="220" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="16" font-weight="600" fill="#14395e">Rombo</text>
+</svg>

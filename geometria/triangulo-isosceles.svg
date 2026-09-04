@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 245" width="260" height="245" role="img" aria-labelledby="t-triangulo-isosceles d-triangulo-isosceles">
+<title id="t-triangulo-isosceles">Triangulo isosceles</title>
+<desc id="d-triangulo-isosceles">Triangulo con dos lados de igual longitud, marcados con una raya cada uno, y un tercer lado distinto que es la base. Los dos angulos de la base son iguales, senalados con un arco.</desc>
+<rect x="0" y="0" width="260" height="245" fill="#ffffff"/>
+<path d="M130,40 L205,180 H55 Z" fill="#dbe9f7" stroke="#14395e" stroke-width="3" stroke-linejoin="round"/><g fill="none" stroke="#a02218" stroke-width="3" stroke-linecap="round"><path d="M161.3,113.3 L173.7,106.7"/><path d="M86.3,106.7 L98.7,113.3"/></g><g fill="none" stroke="#a02218" stroke-width="2.5"><path d="M192.7,157.1 A26,26 0 0 0 179,180"/><path d="M81,180 A26,26 0 0 0 67.3,157.1"/></g>
+<text x="130" y="220" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="16" font-weight="600" fill="#14395e">Isósceles: 2 lados iguales</text>
+</svg>

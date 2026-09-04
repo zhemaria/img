@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 245" width="300" height="245" role="img" aria-labelledby="t-triangulo-obtusangulo d-triangulo-obtusangulo">
+<title id="t-triangulo-obtusangulo">Triangulo obtusangulo</title>
+<desc id="d-triangulo-obtusangulo">Triangulo con un angulo interior mayor de 90 grados, senalado con un arco. Los otros dos angulos son agudos.</desc>
+<rect x="0" y="0" width="300" height="245" fill="#ffffff"/>
+<path d="M30,70 L110,185 H280 Z" fill="#dbe9f7" stroke="#14395e" stroke-width="3" stroke-linejoin="round"/><g fill="none" stroke="#a02218" stroke-width="2.5"><path d="M144,185 A34,34 0 0 0 90.6,157.1"/></g><text x="150" y="173" text-anchor="start" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="15" font-weight="600" fill="#a02218">> 90°</text>
+<text x="150" y="220" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="16" font-weight="600" fill="#14395e">Obtusángulo: un ángulo obtuso</text>
+</svg>

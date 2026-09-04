@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 245" width="260" height="245" role="img" aria-labelledby="t-triangulo-equilatero d-triangulo-equilatero">
+<title id="t-triangulo-equilatero">Triangulo equilatero</title>
+<desc id="d-triangulo-equilatero">Triangulo con los tres lados de igual longitud, cada uno marcado con una raya, y los tres angulos interiores de 60 grados.</desc>
+<rect x="0" y="0" width="260" height="245" fill="#ffffff"/>
+<path d="M130,40 L210,178 H50 Z" fill="#dbe9f7" stroke="#14395e" stroke-width="3" stroke-linejoin="round"/><g fill="none" stroke="#a02218" stroke-width="3" stroke-linecap="round"><path d="M130,171 V185"/><path d="M163.9,112.5 L176.1,105.5"/><path d="M83.9,105.5 L96.1,112.5"/></g><text x="130" y="150" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="600" fill="#14395e">60°</text><text x="185" y="167" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="600" fill="#14395e">60°</text><text x="75" y="167" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="600" fill="#14395e">60°</text>
+<text x="130" y="220" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="16" font-weight="600" fill="#14395e">Equilátero: 3 lados iguales</text>
+</svg>

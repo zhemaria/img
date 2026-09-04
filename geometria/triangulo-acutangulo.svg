@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 245" width="300" height="245" role="img" aria-labelledby="t-triangulo-acutangulo d-triangulo-acutangulo">
+<title id="t-triangulo-acutangulo">Triangulo acutangulo</title>
+<desc id="d-triangulo-acutangulo">Triangulo cuyos tres angulos interiores miden menos de 90 grados. Los tres angulos aparecen senalados con un arco.</desc>
+<rect x="0" y="0" width="300" height="245" fill="#ffffff"/>
+<path d="M150,45 L245,185 H55 Z" fill="#dbe9f7" stroke="#14395e" stroke-width="3" stroke-linejoin="round"/><g fill="none" stroke="#a02218" stroke-width="2.5"><path d="M133.2,69.8 A30,30 0 0 0 166.8,69.8"/><path d="M215,185 A30,30 0 0 1 228.2,160.2"/><path d="M85,185 A30,30 0 0 0 71.8,160.2"/></g><text x="150" y="92" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="600" fill="#14395e">68°</text><text x="209" y="172" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="600" fill="#14395e">56°</text><text x="91" y="172" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="600" fill="#14395e">56°</text>
+<text x="150" y="220" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="16" font-weight="600" fill="#14395e">Acutángulo: 3 ángulos agudos</text>
+</svg>

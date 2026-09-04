@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 262" width="300" height="262" role="img" aria-labelledby="t-trapecio d-trapecio">
+<title id="t-trapecio">Trapecio</title>
+<desc id="d-trapecio">Cuadrilatero con solo dos lados paralelos: la base mayor B abajo y la base menor b arriba. La altura h, dibujada con linea discontinua, une las dos bases formando angulo recto.</desc>
+<rect x="0" y="0" width="300" height="262" fill="#ffffff"/>
+<path d="M25,190 H275 L215,65 H85 Z" fill="#dbe9f7" stroke="#14395e" stroke-width="3" stroke-linejoin="round"/><g fill="none" stroke="#14395e" stroke-width="2.5" stroke-dasharray="7 5"><path d="M85,65 V190"/></g><g fill="none" stroke="#14395e" stroke-width="3" stroke-linecap="round"><path d="M85,176 H99 V190"/></g><text x="150" y="212" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="15" font-weight="600" fill="#14395e">B (base mayor)</text><text x="150" y="55" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="15" font-weight="600" fill="#14395e">b (base menor)</text><text x="78" y="133" text-anchor="end" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="17" font-weight="600" fill="#14395e">h</text>
+<text x="150" y="248" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="16" font-weight="600" fill="#14395e">Trapecio</text>
+</svg>

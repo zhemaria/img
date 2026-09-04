@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 245" width="260" height="245" role="img" aria-labelledby="t-cuadrado d-cuadrado">
+<title id="t-cuadrado">Cuadrado</title>
+<desc id="d-cuadrado">Cuadrilatero con los cuatro lados de igual longitud, marcados con una raya, y los cuatro angulos rectos, marcados con un pequeno cuadro en cada vertice.</desc>
+<rect x="0" y="0" width="260" height="245" fill="#ffffff"/>
+<path d="M60,45 H200 V185 H60 Z" fill="#dbe9f7" stroke="#14395e" stroke-width="3" stroke-linejoin="round"/><g fill="none" stroke="#14395e" stroke-width="3" stroke-linecap="round"><path d="M60,63 H78 V45"/><path d="M200,63 H182 V45"/><path d="M200,167 H182 V185"/><path d="M60,167 H78 V185"/></g><g fill="none" stroke="#a02218" stroke-width="3" stroke-linecap="round"><path d="M130,38 V52"/><path d="M130,178 V192"/><path d="M53,115 H67"/><path d="M193,115 H207"/></g>
+<text x="130" y="220" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="16" font-weight="600" fill="#14395e">Cuadrado</text>
+</svg>

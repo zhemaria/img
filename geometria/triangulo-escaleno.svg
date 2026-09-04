@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 245" width="300" height="245" role="img" aria-labelledby="t-triangulo-escaleno d-triangulo-escaleno">
+<title id="t-triangulo-escaleno">Triangulo escaleno</title>
+<desc id="d-triangulo-escaleno">Triangulo con los tres lados de longitudes diferentes, marcados con una, dos y tres rayas respectivamente. Sus tres angulos tambien son distintos.</desc>
+<rect x="0" y="0" width="300" height="245" fill="#ffffff"/>
+<path d="M105,45 L255,150 L40,190 Z" fill="#dbe9f7" stroke="#14395e" stroke-width="3" stroke-linejoin="round"/><g fill="none" stroke="#a02218" stroke-width="3" stroke-linecap="round"><path d="M176,103.2 L184,91.8"/><path d="M141.3,164.0 L143.9,177.8"/><path d="M151.1,162.2 L153.7,176.0"/><path d="M63.7,120.1 L76.4,125.9"/><path d="M66.1,114.6 L78.9,120.4"/><path d="M68.6,109.1 L81.3,114.9"/></g>
+<text x="150" y="220" text-anchor="middle" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="16" font-weight="600" fill="#14395e">Escaleno: 3 lados distintos</text>
+</svg>
